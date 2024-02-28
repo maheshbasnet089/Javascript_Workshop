@@ -1,5 +1,7 @@
 
 // const days = ['Sunday','Monday','Tuesday']
+// Last —> push, pop
+// Beginning -> unshift, shift
 // days.push("Wednesday")
 // console.log(days)
 // days.pop()
